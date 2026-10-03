@@ -1,5 +1,3 @@
-## Hi...this is lotus
-
 ## About Me
 Breaking down real problems and figuring out what actually works, using math, data, research, reasoning, and AI to test different approaches and turn good ideas into practical solutions.
 
