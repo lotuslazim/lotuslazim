@@ -1,3 +1,1 @@
-# Hey, I'm Lotus 👋
-
-I enjoy taking real problems, trying different ideas, and building practical systems around them.
+I like solving real problems with math, data, research, and reasoning, using AI to explore and test ideas.
